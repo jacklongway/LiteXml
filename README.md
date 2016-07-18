@@ -132,13 +132,13 @@ HashMap<String, String> map = new Xml().fromXml(new TypeToken<HashMap<String, St
 鸡鸡们看起来是不是有种很强悍的感觉,跟gson解析 `new Gson().fromJson()` 是不是很像的,有这种感觉绝没错的,这样   只要会用gson就会用xml解析器,学习成本大大减低,也就是我的初衷。哈哈哈哈......
 
 > 目前该版本暂未实现的功能
-> 
+
 - 哈希表对象存储
 - 集合多级处理(这种场景很少)
 - 解析器配置接口(主要提供更加灵活的业务处理能力)
 
 > 下一版本的目标
-> 
+
 - 完善功能
 - 修复发现的bug
 - 代码重构
