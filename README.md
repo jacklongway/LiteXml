@@ -1,5 +1,5 @@
 # LiteXml
-a lite and power serializable&amp;deserializable parser
+a lite and power serializable&amp;deserializable xml parser
 
 > 产生背景
 
@@ -31,7 +31,7 @@ a lite and power serializable&amp;deserializable parser
 
 > 基本图示
 
-![xml](../../../img/xmind/xml.png)
+![xml](https://jackwaylong.github.io/silentor/img/xmind/xml.png)
 
 > 具体细节分析
 
@@ -150,7 +150,7 @@ HashMap<String, String> map = new Xml().fromXml(new TypeToken<HashMap<String, St
 
 记得扫描下面的二维码,加我微信,一起交流学习哦!
 
-![bar](../../../img/bar.JPG)
+![bar](https://jackwaylong.github.io/silentor/img/bar.JPG)
 
 
 
