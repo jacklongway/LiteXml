@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<province name="湖南">
+    <cities>
+        <city name="长沙" code="1001" />
+        <city>
+            <name>益阳</name>
+            <code>1002</code>
+            <regions>
+                <region>
+                    <name>资阳区</name>
+                </region>
+                <region>
+                    <name>赫山区</name>
+                </region>
+            </regions>
+        </city>
+    </cities>
+    <map>
+        <key name="aa">bb</key>
+        <key name="cc">dd</key>
+    </map>
+    <code>1000</code>
+    <introduce>
+        <title>古城</title>
+        <desc>古都</desc>
+    </introduce>
+</province>
